@@ -15,15 +15,12 @@ A full-stack Expense Tracker application built using the **MERN stack (MongoDB, 
 
 **Frontend:**
 - React.js
-- Chart.js / Recharts / any charting library you used
-- Axios for API calls
-- CSS / Tailwind CSS / Bootstrap (whichever you used)
-
+- CSS / Bootstrap
+  
 **Backend:**
 - Node.js
 - Express.js
 - MongoDB (with Mongoose)
-- JWT for authentication and authorization
 
 ## 📂 Project Structure
 
